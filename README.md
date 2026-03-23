@@ -1,10 +1,10 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1117&height=200&text=ADRIANSUAMAC&fontColor=ffffff&fontSize=60&fontAlignY=55&animation=blinking&fontFamily=monospace)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=72&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&height=130&lines=ADRIANSUAMAC)](https://git.io/typing-svg)
 
 `< developer />` · `{ building things }` · `( learning daily )`
 
-**`Open to new challenges`**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1500&color=9333EA&center=true&vCenter=true&width=500&lines=Open+to+new+challenges;Turning+ideas+into+code;Building+things+that+matter;Always+learning%2C+always+growing)](https://git.io/typing-svg)
 
 </div>
 
@@ -85,9 +85,39 @@ print(yo.saludar())
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adriansuamac&bg_color=0d1117&color=9333ea&line=9333ea&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adriansuamac/adriansuamac/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adriansuamac/adriansuamac/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/adriansuamac/adriansuamac/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
+
+> ⚙️ Para activar el Pac-Man, crea el archivo `.github/workflows/snake.yml` en tu repositorio de perfil con el siguiente contenido:
+> 
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule:
+>     - cron: "0 0 * * *"
+>   workflow_dispatch:
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: ${{ github.repository_owner }}
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
 
 ---
 
@@ -96,8 +126,11 @@ print(yo.saludar())
 ¿Tienes un proyecto en mente? ¿Quieres colaborar? ¡Escríbeme!
 
 [![GitHub](https://img.shields.io/badge/GitHub-adriansuamac-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adriansuamac)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrián_Suamac-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-suarez-macias-0a6091288/)
-[![Email](https://img.shields.io/badge/Email-tu@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](adriansuamac8@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrián_Suamac-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adriansuamac)
+
+[![Email](https://img.shields.io/badge/Email-tu@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+
 
 <!--
 **adriansuamac/adriansuamac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
