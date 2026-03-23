@@ -103,7 +103,7 @@ print(yo.saludar())
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrián_Suamac-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adriansuamac)
 
-[![Email](https://img.shields.io/badge/Email-tu@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adriansuamac8@gmail.com)
+[![Email](https://img.shields.io/badge/Email-tu@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](adriansuamac8@gmail.com)
 
 
 <!--
