@@ -1,10 +1,103 @@
-### Hi there 👋
-- 🔭 I’m currently working on web design
-- 🌱 I’m currently learning css
-- 👯 I’m looking to collaborate on web projects
-- 🤔 I’m looking for help with JAVASCRIPT
-- 💬 Ask me about HTML
-  
+<div align="center">
+
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1117&height=200&text=ADRIANSUAMAC&fontColor=ffffff&fontSize=60&fontAlignY=55&animation=blinking&fontFamily=monospace)
+
+`< developer />` · `{ building things }` · `( learning daily )`
+
+**`Open to new challenges`**
+
+</div>
+
+---
+
+## Sobre mí
+
+```python
+class AdrianSuamac:
+    def __init__(self):
+        self.rol         = "Full Stack Developer"
+        self.lenguajes   = ["Python", "Java", "TypeScript", "C#"]
+        self.intereses   = ["backend", "frontend", "clean code"]
+        self.aprendiendo = ["TypeScript", "Spring Boot", "DevOps"]
+        self.nota        = "este perfil es solo la punta del iceberg"
+        self.disponible  = True  # abierto a oportunidades
+
+    def saludar(self):
+        return "¡Hola! Soy Adrián, construyo cosas interesantes con código."
+
+yo = AdrianSuamac()
+print(yo.saludar())
+```
+
+---
+
+## Tech Stack
+
+### Lenguajes
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Bases de Datos
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frameworks & Herramientas
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Control de Versiones
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### IDEs & Editores
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+### APIs & Testing
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=adriansuamac&theme=dark&hide_border=true&background=0d1117&ring=9333ea&fire=9333ea&currStreakLabel=9333ea)](https://git.io/streak-stats)
+
+[![adriansuamac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adriansuamac&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=9333ea&icon_color=9333ea&text_color=ffffff)](https://github.com/adriansuamac)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriansuamac&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=9333ea&text_color=ffffff)](https://github.com/adriansuamac)
+
+</div>
+
+---
+
+## Contributions
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adriansuamac&bg_color=0d1117&color=9333ea&line=9333ea&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## Redes Sociales
+
+¿Tienes un proyecto en mente? ¿Quieres colaborar? ¡Escríbeme!
+
+[![GitHub](https://img.shields.io/badge/GitHub-adriansuamac-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adriansuamac)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrián_Suamac-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-suarez-macias-0a6091288/)
+[![Email](https://img.shields.io/badge/Email-tu@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](adriansuamac8@gmail.com)
 
 <!--
 **adriansuamac/adriansuamac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
