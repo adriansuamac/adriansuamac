@@ -15,10 +15,10 @@
 ```python
 class AdrianSuamac:
     def __init__(self):
-        self.rol         = "Full Stack Developer"
+        self.rol         = "Junior Developer"
         self.lenguajes   = ["Python", "Java", "TypeScript", "C#"]
         self.intereses   = ["backend", "frontend", "clean code"]
-        self.aprendiendo = ["TypeScript", "Spring Boot", "DevOps"]
+        self.aprendiendo = ["TypeScript", "React", "DevOps"]
         self.nota        = "este perfil es solo la punta del iceberg"
         self.disponible  = True  # abierto a oportunidades
 
@@ -103,7 +103,7 @@ print(yo.saludar())
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrián_Suamac-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adriansuamac)
 
-[![Email](https://img.shields.io/badge/Email-tu@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](adriansuamac8@gmail.com)
+[![Email](https://img.shields.io/badge/Email-adriansuamac8@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](adriansuamac8@gmail.com)
 
 
 <!--
