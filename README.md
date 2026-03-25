@@ -49,20 +49,6 @@
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=adriansuamac&theme=dark&hide_border=true&background=0d1117&ring=9333ea&fire=9333ea&currStreakLabel=9333ea)](https://git.io/streak-stats)
-
-[![adriansuamac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adriansuamac&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=9333ea&icon_color=9333ea&text_color=ffffff)](https://github.com/adriansuamac)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriansuamac&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=9333ea&text_color=ffffff)](https://github.com/adriansuamac)
-
-</div>
-
----
-
 ## Contributions
 
 <div align="center">
@@ -72,6 +58,20 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adriansuamac/adriansuamac/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/adriansuamac/adriansuamac/output/github-contribution-grid-snake-dark.svg" />
 </picture>
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=adriansuamac&theme=dark&hide_border=true&background=0d1117&ring=9333ea&fire=9333ea&currStreakLabel=9333ea)](https://git.io/streak-stats)
+
+[![adriansuamac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adriansuamac&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=9333ea&icon_color=9333ea&text_color=ffffff)](https://github.com/adriansuamac)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriansuamac&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=9333ea&text_color=ffffff)](https://github.com/adriansuamac)
 
 </div>
 
