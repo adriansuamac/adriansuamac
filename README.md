@@ -1,23 +1,14 @@
-
+# Hola, soy Adrián
+> Backend Developer apasionado por construir sistemas robustos, escalables y bien diseñados
 ---
 
 ## Sobre mí
 
-```python
-class AdrianSuamac:
-    def __init__(self):
-        self.rol         = "Junior Developer"
-        self.lenguajes   = ["Python", "Java", "TypeScript", "C#"]
-        self.intereses   = ["backend", "frontend", "clean code"]
-        self.aprendiendo = ["TypeScript", "React", "DevOps"]
-        self.nota        = "este perfil es solo la punta del iceberg"
-        self.disponible  = True  # abierto a oportunidades
-
-    def saludar(self):
-        return "¡Hola! Soy Adrián, construyo cosas interesantes con código."
-
-yo = AdrianSuamac()
-print(yo.saludar())
+```
+💻 Desarrollo soluciones eficientes y escalables  
+🧠 Enfocado en backend y arquitectura  
+⚙️ Fan del código limpio y optimización  
+🚀 Aprendiendo algo nuevo cada día
 ```
 
 ---
