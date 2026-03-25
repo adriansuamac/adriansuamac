@@ -1,4 +1,19 @@
-# Hola, soy Adrián
+<div align="center">
+
+```
+ █████╗ ██████╗ ██████╗ ██╗ █████╗ ███╗   ██╗
+██╔══██╗██╔══██╗██╔══██╗██║██╔══██╗████╗  ██║
+███████║██║  ██║██████╔╝██║███████║██╔██╗ ██║
+██╔══██║██║  ██║██╔══██╗██║██╔══██║██║╚██╗██║
+██║  ██║██████╔╝██║  ██║██║██║  ██║██║ ╚████║
+╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
+
+### `< developer />` · `{ building things }` · `( learning daily )`
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=B931F7&width=435&lines=Junior+Developer;Always+learning+new+things;Building+cool+projects;Creating+solutions;Passionate+about+coding;Code.+Debug.+Repeat.)](https://git.io/typing-svg)
+
+</div>
 > Backend Developer apasionado por construir sistemas robustos, escalables y bien diseñados
 ---
 
