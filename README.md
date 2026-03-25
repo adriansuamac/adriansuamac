@@ -1,7 +1,3 @@
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1500&color=9333EA&center=true&vCenter=true&width=500&lines=Junior+Developer;Building+things+that+matter;Always+learning%2C+always+growing)](https://git.io/typing-svg)
-
-</div>
 
 ---
 
