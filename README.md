@@ -1,5 +1,4 @@
 <div align="center">
-
 ```
  █████╗ ██████╗ ██████╗ ██╗ █████╗ ███╗   ██╗
 ██╔══██╗██╔══██╗██╔══██╗██║██╔══██╗████╗  ██║
@@ -14,7 +13,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=B931F7&width=435&lines=Junior+Developer;Always+learning+new+things;Building+cool+projects;Creating+solutions;Passionate+about+coding;Code.+Debug.+Repeat.)](https://git.io/typing-svg)
 
 </div>
-> Backend Developer apasionado por construir sistemas robustos, escalables y bien diseñados
 ---
 
 ## Sobre mí
@@ -102,7 +100,6 @@
 
 [![Email](https://img.shields.io/badge/Email-adriansuamac8@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adriansuamac8@gmail.com)
 
-### Inspirado en @nimmeda
 <!--
 **adriansuamac/adriansuamac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
