@@ -102,7 +102,7 @@
 
 [![Email](https://img.shields.io/badge/Email-adriansuamac8@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adriansuamac8@gmail.com)
 
-
+### Inspirado en @nimmeda
 <!--
 **adriansuamac/adriansuamac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
