@@ -6,7 +6,7 @@
 
 ```
 💻 Desarrollo soluciones eficientes y escalables  
-🧠 Enfocado en backend y arquitectura  
+🧠 Enfocado en backend  
 ⚙️ Fan del código limpio y optimización  
 🚀 Aprendiendo algo nuevo cada día
 ```
